@@ -4,5 +4,7 @@ Superlogic是一个基于NodeJS/javascript 的计算平台。它们有4部分组
  * 一系列Superlogic I/O模块
  * 一个高速总线
  * 一个基于图形/数据流开发环境
-#目标
+ 
+#  目的
+
 
